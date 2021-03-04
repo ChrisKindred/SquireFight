@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+SquireFight_Young_Duelists/[Ll]ibrary/
+SquireFight_Young_Duelists/[Tt]emp/
+SquireFight_Young_Duelists/[Oo]bj/
+SquireFight_Young_Duelists/[Bb]uild/
+SquireFight_Young_Duelists/[Bb]uilds/
+SquireFight_Young_Duelists/[Ll]ogs/
+SquireFight_Young_Duelists/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
